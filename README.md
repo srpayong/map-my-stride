@@ -3,7 +3,7 @@
 
 ###
 
-<p align="left">Map My Stride is a Javascript project that allows</p>
+<p align="left">Embark on your fitness journey with Map My Stride, a dynamic web application crafted using JavaScript. Log your workouts effortlessly and explore your progress with an interactive and intuitive experience.</p>
 
 ###
 
@@ -12,16 +12,20 @@
 ###
 
 <p align="left">
-  - Robust user authentication and authorization system<br>
-  - Empower users to craft personalized blog posts<br>- Seamless creation of trip entries within blog posts<br>
-  - Enable community members to share and receive reviews<br>
-  - Effortless photo uploads for blog posts, trip entries, and user profiles<br>
-  - Intuitive functionality for liking and favoriting blogs or trips, allowing users to curate their saved content on their profiles.</p>
+  - Utilizes the Leaflet library to display interactive maps.
+  - Retrieves the user's current position using the Geolocation API.
+  - Allows users to log running and cycling workouts.
+  - Renders logged workouts in a sidebar list with details such as distance, duration, elevation and, for running, cadence.
+  - Places markers on the map for each logged workout, indicating the workout type.
+  - Captures cadence for running workouts and elevation gain for cycling workouts.
+  - Stores workout data locally in the browser using the browser's API.
+  - Ensures that workout data persists, so it's available each time the page is loaded.
+</p>
 
 ###
 
 
-<img src="./screenshot-mapmystride.png" height="300" width="400">
+<img src="./screenshot-mapmystride.png" height="500" width="500">
 
 
 ###
