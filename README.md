@@ -12,14 +12,14 @@
 ###
 
 <p align="left">
-  - Utilizes the Leaflet library to display interactive maps.
-  - Retrieves the user's current position using the Geolocation API.
-  - Allows users to log running and cycling workouts.
-  - Renders logged workouts in a sidebar list with details such as distance, duration, elevation and, for running, cadence.
-  - Places markers on the map for each logged workout, indicating the workout type.
-  - Captures cadence for running workouts and elevation gain for cycling workouts.
-  - Stores workout data locally in the browser using the browser's API.
-  - Ensures that workout data persists, so it's available each time the page is loaded.
+  - Utilizes the Leaflet library to display interactive maps. <br />
+  - Retrieves the user's current position using the Geolocation API. <br />
+  - Allows users to log running and cycling workouts.<br />
+  - Renders logged workouts in a sidebar list with details such as distance, duration, elevation and, for running, cadence.<br />
+  - Places markers on the map for each logged workout, indicating the workout type.<br />
+  - Captures cadence for running workouts and elevation gain for cycling workouts.<br />
+  - Stores workout data locally in the browser using the browser's API.<br />
+  - Ensures that workout data persists, so it's available each time the page is loaded.<br />
 </p>
 
 ###
