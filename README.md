@@ -23,6 +23,8 @@
 </p>
 
 ###
+###
+###
 
 <p align="center">
 <img src="./screenshot-mapmystride.png" height="500" width="700">
