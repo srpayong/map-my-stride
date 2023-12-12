@@ -24,8 +24,8 @@
 
 ###
 
-<div style="text-align:center">
+<p align="center">
 <img src="./screenshot-mapmystride.png" height="400" width="500">
-</div>
+</p>
 
 ###
