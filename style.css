@@ -4,7 +4,7 @@
 
   --color-dark--1: #2d3439;
   --color-dark--2: #42484d;
-  --color-light--1: #aaa;
+  --color-light--1: #ffffff;
   --color-light--2: #ececec;
   --color-light--3: rgb(214, 222, 224);
 }
@@ -43,18 +43,17 @@ a:visited {
 /* SIDEBAR */
 .sidebar {
   flex-basis: 50rem;
-  background-color: var(--color-dark--1);
+  background-color: rgb(95, 108, 113);
+  opacity: 0.9;
   padding: 3rem 5rem 4rem 5rem;
   display: flex;
   flex-direction: column;
+  border-radius: 20px;
 }
 
 .logo {
-  height: 100px;
-  width: auto;
+  height: 230px;
   align-self: center;
-  margin-bottom: 4rem;
-  color: white;
 }
 
 .workouts {
@@ -117,7 +116,6 @@ a:visited {
 
 .form {
   background-color: var(--color-dark--2);
-  color: white;
   border-radius: 5px;
   padding: 1.5rem 2.75rem;
   margin-bottom: 1.75rem;
@@ -178,7 +176,7 @@ a:visited {
 
 .project {
   margin-top: auto;
-  font-size: 1.3rem;
+  font-size: 1.5rem;
   text-align: center;
   color: var(--color-light--1);
 }
@@ -190,7 +188,7 @@ a:visited {
 }
 
 .github-link:hover,
-.github-link:active {
+.gihub-link:active {
   color: var(--color-light--2);
 }
 
