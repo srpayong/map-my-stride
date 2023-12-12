@@ -27,7 +27,7 @@
 ###
 
 <p align="center">
-<img src="./screenshot-mapmystride.png" height="500" width="700">
+<img src="./screenshot-mapmystridephoto.png" height="500" width="700">
 </p>
 
 ###
