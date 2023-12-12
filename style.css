@@ -28,7 +28,7 @@ body {
   height: 100vh;
   overscroll-behavior-y: none;
 
-  background-color: #fff;
+  background-color: #ffffff;
   padding: 2.5rem;
 
   display: flex;
@@ -43,12 +43,11 @@ a:visited {
 /* SIDEBAR */
 .sidebar {
   flex-basis: 50rem;
-  background-color: rgb(95, 108, 113);
-  opacity: 0.9;
+  background-color: rgb(87, 124, 124);
   padding: 3rem 5rem 4rem 5rem;
   display: flex;
   flex-direction: column;
-  border-radius: 20px;
+  border-radius: 10px;
 }
 
 .logo {
